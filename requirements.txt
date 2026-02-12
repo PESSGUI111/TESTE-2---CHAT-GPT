@@ -1,0 +1,3 @@
+customtkinter
+peewee
+Pillow
